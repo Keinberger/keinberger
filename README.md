@@ -91,7 +91,7 @@ Projects I have been involved with:
 - 🏆 **Best NFT Project on Mantle** at ETH Prague 2023 ([TurtleShell](https://devfolio.co/projects/turtleshell-efef))
 - 🏆 **Most innovative dApp using Safe** at ETHGlobal NYC 2023 ([Safe Invaders](https://ethglobal.com/showcase/safe-invaders-coyao))
 - 🏆 **Most Use of Neon EVM** at ETHGlobal Paris 2023 ([Decentralized Circuit Breaker](https://ethglobal.com/showcase/decentralized-circuit-breaker-96q8q))
-- 🏆 **Best ReFi Product on Polygon** at ETH SF 2022 ([Aspan](https://ethglobal.com/showcase/safe-invaders-coyao))
+- 🏆 **Best ReFi Product on Polygon** at ETH SF 2022 ([Aspan](https://ethglobal.com/showcase/aspan-45uv1))
 
 ---
 
