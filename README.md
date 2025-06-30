@@ -4,7 +4,7 @@
   <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&lines=Hi%2C+I%E2%80%99m+Philipp+Keinberger!;Smart+Contract+Developer;+%40+Hifi+Finance;Co-Founder+%40+TurtleShell" 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&lines=Hi%2C+I%E2%80%99m+Philipp+Keinberger!;Smart+Contract+Developer;+%40+Hifi+Finance" 
       alt="Typing SVG"
       width="850"
     />
@@ -85,7 +85,7 @@ Projects I have been involved with:
 
 - 🥈 **ETH Warsaw 2023 Finalist** [Circuit Breaker UI](https://devpost.com/software/circuit-breaker-ui)
 - 🎙️ **GoPlus Security Summit Speaker** (Istanbul, 2023)  
-- 🎙️ **"The Bytecode" Podcast Guest on Circuit Breakers and ERC7265** [Watch here]()
+- 🎙️ **"The Bytecode" Podcast Guest on Circuit Breakers and ERC7265** [Watch here](https://www.youtube.com/watch?v=sSUIjQif4Ws)
 - 📜 **Major Contributor** to ERC-7265 DeFi “Circuit Breaker” standard
 - 🏆 **Best Consumer Application built on Morph** at ETHGlobal Bangkok 2024 ([OverTheEther](https://ethglobal.com/showcase/overtheether-cqxse))
 - 🏆 **Best NFT Project on Mantle** at ETH Prague 2023 ([TurtleShell](https://devfolio.co/projects/turtleshell-efef))
