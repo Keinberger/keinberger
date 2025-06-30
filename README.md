@@ -1,9 +1,15 @@
 
 <!-- Banner & Animated Title -->
 <p align="center">
+  <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&weight=600&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&lines=Hi%2C+I%E2%80%99m+Philipp+Keinberger!;Smart+Contract+Developer+%7C+HiFi+Finance;Co-Founder+%40TurtleShell" alt="Typing SVG"/>
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&lines=Hi%2C+I%E2%80%99m+Philipp+Keinberger!;Smart+Contract+Developer;+%40+Hifi+Finance;Co-Founder+%40+TurtleShell" 
+      alt="Typing SVG"
+      width="850"
+    />
   </a>
+</div>
 </p>
 <!-- Banner & Subtitle -->
 <p align="center" style="margin-top: 0;">
